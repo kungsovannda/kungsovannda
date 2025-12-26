@@ -58,8 +58,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anda-g&show_icons=true&theme=gruvbox" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anda-g&layout=compact&theme=gruvbox" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=kungsovannda&show_icons=true&theme=gruvbox" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kungsovannda&layout=compact&theme=gruvbox" height="170">
 </p>
 
 ---
@@ -67,7 +67,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anda-g&theme=gruvbox&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kungsovannda&theme=gruvbox&row=1&column=6"/>
 </p>
 
 ---
